@@ -4,3 +4,5 @@ requests
 pillow
 python-dotenv
 langdetect
+google-generativeai
+twilio
